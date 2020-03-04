@@ -2,7 +2,7 @@
 #   Main Configs   #
 # ---------------- #
 baseurl:
-url: https://whitericeblog.org/
+url: https://whiterice.blog.org/
 date_format: "ordinal"
 title: "White Rice's Blog"
 subtitle: "A simple blog"
@@ -18,7 +18,7 @@ side_bar_repo_limit: 5
 author: WhiteRice Porridge
 organization: 
 organization_url: 
-github_username: ruhisoles
+github_username: Ruhisoles
 location: Germany
 email: ruhisoles@gmail.com
 
@@ -81,7 +81,7 @@ collections:
         output: true
         permalink: /wiki/:path/
 
-repository: Ruhisoles/ruhisoles.github.io
+repository: Ruhisoles/Ruhisoles.github.io
 
 # ---------------- #
 #      Comments    #
