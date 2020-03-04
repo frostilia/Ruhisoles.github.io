@@ -98,14 +98,14 @@ gitment:
     owner: ruhisoles
     repo: blog-comments
     oauth:
-        client_id: d0d51e467876913228f1
-        client_secret: 605a9123f2fcd1f29832e9fd1117b313ae47e2e3
+        client_id: Iv1.c9a20c048a0953c8
+        client_secret: 265a1c3d343d59b60cc64bc6a66b93f04e21b0c7
 # https://github.com/gitalk/gitalk#install
 gitalk:
     owner: ruhisoles
     repo: blog-comments
-    clientID: d0d51e467876913228f1
-    clientSecret: 605a9123f2fcd1f29832e9fd1117b313ae47e2e3
+    clientID: Iv1.c9a20c048a0953c8
+    clientSecret: 265a1c3d343d59b60cc64bc6a66b93f04e21b0c7
 # 在使用其它评论组件时可点击显示 Disqus
 lazy_load_disqus : false
 
