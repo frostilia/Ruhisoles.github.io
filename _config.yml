@@ -2,7 +2,7 @@
 #   Main Configs   #
 # ---------------- #
 baseurl:
-url: https://whiterice.blog.org/
+url: https://whitericeblog.org/
 date_format: "ordinal"
 title: "White Rice's Blog"
 subtitle: "A simple blog"
@@ -15,7 +15,7 @@ side_bar_repo_limit: 5
 # ---------------- #
 #      Author      #
 # ---------------- #
-author: White Rice Porridge
+author: WhiteRice Porridge
 organization: 
 organization_url: 
 github_username: ruhisoles
@@ -95,17 +95,17 @@ disqus:
     username: 
 # https://imsun.net/posts/gitment-introduction/
 gitment:
-    owner: mzlogin
+    owner: Ruhisoles
     repo: blog-comments
     oauth:
-        client_id: d2e1cbbd298958076462
-        client_secret: b42a4178e5fd4a7cf63189ef4b1453b05c375709
+        client_id: Iv1.c9a20c048a0953c8
+        client_secret: 265a1c3d343d59b60cc64bc6a66b93f04e21b0c7
 # https://github.com/gitalk/gitalk#install
 gitalk:
-    owner: mzlogin
+    owner: Ruhisoles
     repo: blog-comments
-    clientID: d2e1cbbd298958076462
-    clientSecret: b42a4178e5fd4a7cf63189ef4b1453b05c375709
+    clientID: Iv1.c9a20c048a0953c8
+    clientSecret: 265a1c3d343d59b60cc64bc6a66b93f04e21b0c7
 # 在使用其它评论组件时可点击显示 Disqus
 lazy_load_disqus : false
 
