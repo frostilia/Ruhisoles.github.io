@@ -2,13 +2,13 @@
 #   Main Configs   #
 # ---------------- #
 baseurl:
-url: https://mazhuang.org
+url: https://whiterice.blog.org/
 date_format: "ordinal"
 title: White Rice Blog
 subtitle: "A simple blog"
 description: "WhiteRice's personal blog"
 keywords: white rice, blog
-timezone: Europe/Berlin
+timezone: Europe/Germany
 encoding: "utf-8"
 side_bar_repo_limit: 5
 
@@ -81,7 +81,7 @@ collections:
         output: true
         permalink: /wiki/:path/
 
-repository: Ruhisoles/mzlogin.github.io
+repository: Ruhisoles/ruhisoles.github.io
 
 # ---------------- #
 #      Comments    #
