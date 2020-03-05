@@ -28,27 +28,27 @@ email: ruhisoles@gmail.com
 navs:
   -
     href: /
-    label: 首页
+    label: 首页/HomePage
 
   -
     href: /categories/
-    label: 分类
+    label: 分类/Categories
 
 #   -
 #     href: /archives/
 #     label: 归档
 
-  -
-    href: /wiki/
-    label: 维基
+  # -
+    # href: /wiki/
+    # label: 维基
 
-  -
-    href: /links/
-    label: 链接
+  # -
+    # href: /links/
+    # label: 链接
 
-  -
-    href: /about/
-    label: 关于
+  # -
+    # href: /about/
+    # label: 关于
 
 # ---------------- #
 #       RSS        #
@@ -84,30 +84,30 @@ collections:
 repository: Ruhisoles/Ruhisoles.github.io
 
 # ---------------- #
-#      Comments    #
+     # Comments    #
 # ---------------- #
 # support provider: disqus, gitment, gitalk
-comments_provider: gitalk
+# comments_provider: gitalk
 # !!!重要!!! 请修改下面这些信息为你自己申请的
 # !!!Important!!! Please modify infos below to yours
 # https://disqus.com
-disqus:
-    username: 
+# disqus:
+    # username: 
 # https://imsun.net/posts/gitment-introduction/
-gitment:
-    owner: Ruhisoles
-    repo: blog-comments
-    oauth:
-        client_id: Iv1.c9a20c048a0953c8
-        client_secret: 265a1c3d343d59b60cc64bc6a66b93f04e21b0c7
+# gitment:
+    # owner: Ruhisoles
+    # repo: blog-comments
+    # oauth:
+        # client_id: Iv1.c9a20c048a0953c8
+        # client_secret: 265a1c3d343d59b60cc64bc6a66b93f04e21b0c7
 # https://github.com/gitalk/gitalk#install
-gitalk:
-    owner: Ruhisoles
-    repo: blog-comments
-    clientID: Iv1.c9a20c048a0953c8
-    clientSecret: 265a1c3d343d59b60cc64bc6a66b93f04e21b0c7
+# gitalk:
+    # owner: Ruhisoles
+    # repo: blog-comments
+    # clientID: Iv1.c9a20c048a0953c8
+    # clientSecret: 265a1c3d343d59b60cc64bc6a66b93f04e21b0c7
 # 在使用其它评论组件时可点击显示 Disqus
-lazy_load_disqus : false
+# lazy_load_disqus : false
 
 # ---------------- #
 #      Search      #
