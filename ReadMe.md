@@ -1,6 +1,6 @@
 # A simple blog
 
-White Rice's personal blog.
+White Rice's personal blog: https://ruhisoles.github.io
 
 ## Acknowledgement
 
