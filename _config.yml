@@ -2,7 +2,7 @@
 #   Main Configs   #
 # ---------------- #
 baseurl:
-url: https://ruhisoles.github.io
+url: https://whiterice.blog.org
 date_format: "ordinal"
 title: "White Rice's Blog"
 subtitle: "A simple blog"
