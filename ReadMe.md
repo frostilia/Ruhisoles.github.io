@@ -2,7 +2,7 @@
 
 White Rice's personal blog.
 
-## Aknowledgement
+## Acknowledgement
 
 This blog is forked from and created based on https://github.com/mzlogin/mzlogin.github.io
 
