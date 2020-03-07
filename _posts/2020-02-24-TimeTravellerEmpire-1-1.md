@@ -6,7 +6,7 @@ description: 穿越帝国，第一卷，第一章
 keywords: 中文, 小说, 穿越帝国
 ---
 
-##[这是第一章] | [下一章](./TimeTravellerEmpire-1-3/) 
+## 这是第一章 | [下一章](../TimeTravellerEmpire-1-3/) 
 
 永昭十三年，玉金帝国破春城，永昭帝南逃，流亡妙香国。
 
