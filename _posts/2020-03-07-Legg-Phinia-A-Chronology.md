@@ -1,9 +1,9 @@
 ---
-layout:post
-title:芬尼亚，断代史
-categories:[中文小说,莱戈]
-description:芬尼亚，断代史
-keywords:中文,小说,莱戈
+layout: post
+title: 芬尼亚，断代史
+categories: [中文小说, 莱戈]
+description: 芬尼亚，断代史
+keywords: 中文, 小说, 莱戈
 ---
 
 
