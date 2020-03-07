@@ -5,7 +5,7 @@ categories: [中文小说, 穿越帝国]
 description: 穿越帝国，第一卷，第四章
 keywords: 中文, 小说, 穿越帝国
 ---
-## [上一章](../TimeTravellerEmpire-1-3/) | [下一章](../TimeTravellerEmpire-1-5/) 
+##### [上一章](/../../2020/03/05/TimeTravellerEmpire-1-3/) | 暂时没有下一章
 
 永昭十四年秋，大秦皇太子携国师与妙香国高僧西进天极峰圣地朝圣。
 

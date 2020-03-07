@@ -5,7 +5,7 @@ categories: [中文小说, 穿越帝国]
 description: 穿越帝国，第一卷，第三章
 keywords: 中文, 小说, 穿越帝国
 ---
-## [上一章](../TimeTravellerEmpire-1-2/) | [下一章](../TimeTravellerEmpire-1-3/) 
+##### [上一章](/../../2020/03/04/TimeTravellerEmpire-1-2/) | [下一章](/../../2020/03/06/TimeTravellerEmpire-1-4/) 
 
 经过将近一年颠沛流离的生活，这几日大家难得偷得几份闲情。虽然对于局势改变并无良策，但是琉璃城平静的生活还是让人们稍微放松了一下。
 
