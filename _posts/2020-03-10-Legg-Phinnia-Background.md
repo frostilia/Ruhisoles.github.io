@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 芬尼亚，断代史，设定
+title: 芬尼亚，维多利亚
 categories: [中文小说, 莱戈]
-description: 芬尼亚，断代史，设定
+description: 芬尼亚，维多利亚
 keywords: 中文, 小说, 莱戈
 ---
 
