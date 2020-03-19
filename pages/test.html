@@ -7,127 +7,36 @@
 <meta name="WhiteRice" content="Conor Sheils">
 <style>
 body {
-	font-family: consolas, 微软雅黑, sans-serif;
+	font-family: Arial, 微软雅黑, sans-serif;
 	font-size: 14pt;
 
 }
 </style>
 </head>
 <body>
-<h1> Test Page</h1>
-<p> which creates a new paragraph. We place all of our regular text inside the element </p>
-<p> which creates a new paragraph. We place all of our regular text inside the element 
-<mark> marked text </mark>
-something here
-<mark> marked text </mark>
-</p>
-<a href="https://maps.google.de"><button>Go to Google map!</button></a>
-<h2> <b>Second</b> Title</h2>
-<p>
-<b>any difference</b> 
-<strong>any difference</strong>
-<em>any difference</em>
-<i>any difference</i>
-<ins> inserted text </ins>
-</p>
-<p>Welcome to <em>my</em> brand new website. This site will be my <strong>new</strong> home on the web.</p>
-<p>welcome to <em>my</em> brand new website. This site will be my <strong>new</strong> home on the web.</p>
 
-<a href="https://www.google.de">Google</a>
-<a href="./../">Home</a>
+<p><a href="test.html" target="iframe_text">Show the test page</a></p>
+ {% include test2.html %}
+<p><a href="/" target="iframe_text">Show D:</a></p>
+<p><a href="https://www.dropbox.com" target="iframe_text">Show Dropbox</a></p>
+<button onclick="fn1()">An interesting button</button>
 
-<a href="./test2.html">Page2</a>
-<p>
-<a href="https://www.karlsruhe.de"><img src="../assets/images/karlsruhe1.jpg" alt="A Karlsruhe image" height="200" title="A Karlsruhe image"></a>
-</p>
-<p>
-<ol>
-<li> Item One    </li>
-<li>     Item    Two</li>
-<li>Item Three </li>
-<li> 中文测试 </li>
-</ol>
-</p>
-<p>更多的中文，测试，<b>哈哈哈哈</b>哈啊哈哈</p>
-<ul>
-<li>为什么自动粗体了？</li>
-<li>hahaha</li>
+<p> New Thing </p>
 
-<li>lalala</li>
-</ul>
-jsiosu
 
-<dl>
-<dt>Stranger</dt>
-<dd>A stranger is someone who you don't know.</dd>
-<p>What if I put a paragraph here?</p>
-<dt>Another dt</dt>
-<dd>Two strangers are only for the purpose of test.</dd>
-</dl>
 
-<p>This website will have the following benefits for my business:</p> <ul> <li>Increased traffic </li> <li>Global Reach</li> <li>Promotional Opportunities</li> </ul>
-
-Read more: https://html.com/#ixzz6GyvozLLK
-
-<table border=1>
-	<caption>A strange table</caption>
-	<thead>
-	<tr>
-		<th colspan="3">Col1-3</th>		
-		<th>Col4</th>
-	</tr>
-	<tr>
-		<td colspan="2"> Row 1 - Column 1,2<br>
-			<b>hahaha</b><br>
-			Some more<br>
-			Finish		
-		</td>
-		<td> Row 1 - Column 3 </td>
-		<td> Row 1 - Column 4 </td>
-	</tr>
-	</thead>
-	<tbody>
-	<tr>
-		<th>head in body</th>
-		<th>2</th>
-		<th>2</th>
-		<th>3</th>
-	</tr>
-	<tr>
-		<td> hjaha - ds</td>
-		<td> sss3</td>
-		<td> let's see what happens</td>
-		<td>last cell</td>
-	</tr>
-	<tfoot>
-		<tr>
-			<th colspan=4> This is the table foot!</th>
-		</tr>
-	</tfoot>
-	</tbody>
-</table>
-
-<table border=1>
-	<tr>
-		<td colspan=3 rowspan=2>1</td>
-		<!-- <td>2</td> -->
-		<!-- <td>3</td> -->
-		<td>4</td>
-	</tr>
-	<tr>
-		<!-- <td>1</td> -->
-		<!-- <td>2</td> -->
-		<!-- <td>3</td> -->
-		<td>4</td>
-	</tr>
-	<tr>
-		<td>1</td>
-		<td>2</td>
-		<td>3</td>
-		<td>4</td>
-	</tr>	
-</table>
 
 
 </body>
+<script>
+function fn1() {
+	document.write("agggga")
+	document.write(
+	`<br>
+	<button onclick='fn1()'>An interesting button</button>
+	<br>
+	<iframe src='https://ruhisoles.github.io'></iframe>`
+	)
+}
+</script>
 </html>
