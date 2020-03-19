@@ -117,4 +117,4 @@ keywords: 中文, 小说, 穿越帝国
 有可能是身体适应了，更有可能是因为药剂的效果吧。杨慈炫这样认为。
 
 
-##### [上一章](/../../2020/03/10/TimeTravellerEmpire-1-9/) | [下一章](/../../2020/03/11/TimeTravellerEmpire-1-11/)
+##### [上一章](/2020/03/10/TimeTravellerEmpire-1-9/) | [下一章](/2020/03/11/TimeTravellerEmpire-1-11/)

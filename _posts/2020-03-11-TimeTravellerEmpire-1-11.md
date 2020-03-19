@@ -114,4 +114,4 @@ keywords: 中文, 小说, 穿越帝国
 
 1: 孙志海, 静观的艺术, 中央编译出版社. 2014(3).
 
-##### [上一章](/../../2020/03/10/TimeTravellerEmpire-1-10/) | [下一章](/../../2020/03/11/TimeTravellerEmpire-1-12/)
+##### [上一章](/2020/03/11/TimeTravellerEmpire-1-10/) | [下一章](/2020/03/11/TimeTravellerEmpire-1-12/)

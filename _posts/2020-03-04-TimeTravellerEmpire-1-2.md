@@ -134,4 +134,4 @@ keywords: 中文, 小说, 穿越帝国
 
 妙香国王深知此事艰难，但是仍然不愿意不施以援手：“孤心意已决，此事无需再议。”
 
-##### [上一章](/../../2020/02/24/TimeTravellerEmpire-1-1/) | [下一章](/../../2020/03/05/TimeTravellerEmpire-1-3/) 
+##### [上一章](/2020/02/24/TimeTravellerEmpire-1-1/) | [下一章](/2020/03/05/TimeTravellerEmpire-1-3/) 
