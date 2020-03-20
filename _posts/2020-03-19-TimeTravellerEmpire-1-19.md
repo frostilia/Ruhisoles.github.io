@@ -5,6 +5,7 @@ categories: [中文小说, 穿越帝国]
 description: 穿越帝国，第一卷，第十九章
 keywords: 中文, 小说, 穿越帝国
 ---
+##### [上一章](/2020/03/17/TimeTravellerEmpire-1-18/) | [下一章](/2020/03/20/TimeTravellerEmpire-1-20/)
 
 杨慈炫：“苏维涅，你说如果我答应你的请求，会帮助我做很多事情是吗？”
 
