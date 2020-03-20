@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 穿越帝国，第一卷，第二章
+title: 穿越帝国，第一卷，第二章，医治李虎
 categories: [中文小说, 穿越帝国]
 description: 穿越帝国，第一卷，第二章
 keywords: 中文, 小说, 穿越帝国

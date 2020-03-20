@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 穿越帝国，第一卷，第四章
+title: 穿越帝国，第一卷，第四章，遮奈讲法
 categories: [中文小说, 穿越帝国]
 description: 穿越帝国，第一卷，第四章
 keywords: 中文, 小说, 穿越帝国
@@ -104,4 +104,4 @@ keywords: 中文, 小说, 穿越帝国
 
 就当杨慈炫等到快要失去耐心时，西边出现了两个骑马奔来的身影，影子被夕阳拖得长长的。
 
-##### [上一章](/../../2020/03/05/TimeTravellerEmpire-1-3/) | [下一章](/../../2020/03/07/TimeTravellerEmpire-1-5/) 
+##### [上一章](/2020/03/05/TimeTravellerEmpire-1-3/) | [下一章](/2020/03/07/TimeTravellerEmpire-1-5/) 

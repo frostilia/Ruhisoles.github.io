@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 穿越帝国，第一卷，第十七章
+title: 穿越帝国，第一卷，第十七章，门内梦境
 categories: [中文小说, 穿越帝国]
 description: 穿越帝国，第一卷，第十七章
 keywords: 中文, 小说, 穿越帝国
@@ -164,4 +164,4 @@ keywords: 中文, 小说, 穿越帝国
 
 光芒吞没了杨晟杰，他出门了。
 
-##### [上一章](/../../2020/03/15/TimeTravellerEmpire-1-16/) | [下一章](/../../2020/03/17/TimeTravellerEmpire-1-18/)
+##### [上一章](/2020/03/15/TimeTravellerEmpire-1-16/) | [下一章](/2020/03/17/TimeTravellerEmpire-1-18/)

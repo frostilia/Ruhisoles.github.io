@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 穿越帝国，第一卷，第八章
+title: 穿越帝国，第一卷，第八章，不杀之戒
 categories: [中文小说, 穿越帝国]
 description: 穿越帝国，第一卷，第八章
 keywords: 中文, 小说, 穿越帝国
@@ -100,4 +100,4 @@ keywords: 中文, 小说, 穿越帝国
 
 到二月末，众人终于从曲曲折折的山路中解脱，来到了巴维奢寺。
 
-##### [上一章](/../../2020/03/08/TimeTravellerEmpire-1-7/) | [下一章](/../../2020/03/10/TimeTravellerEmpire-1-9/)
+##### [上一章](/2020/03/08/TimeTravellerEmpire-1-7/) | [下一章](/2020/03/10/TimeTravellerEmpire-1-9/)

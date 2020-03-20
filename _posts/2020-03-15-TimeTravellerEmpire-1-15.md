@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 穿越帝国，第一卷，第十五章
+title: 穿越帝国，第一卷，第十五章，高僧斗法
 categories: [中文小说, 穿越帝国]
 description: 穿越帝国，第一卷，第十五章
 keywords: 中文, 小说, 穿越帝国
@@ -104,4 +104,4 @@ keywords: 中文, 小说, 穿越帝国
 
 杨慈炫：“若我不是大秦皇子，你的大慈悲心理论可就不通了哦。杀我就是破戒。我没说错吧。”杨慈炫真是活学活用遮奈所说的不杀戒啊。
 
-##### [上一章](/../../2020/03/14/TimeTravellerEmpire-1-14/) | [下一章](/../../2020/03/15/TimeTravellerEmpire-1-16/)
+##### [上一章](/2020/03/14/TimeTravellerEmpire-1-14/) | [下一章](/2020/03/15/TimeTravellerEmpire-1-16/)

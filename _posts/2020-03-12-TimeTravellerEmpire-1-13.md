@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 穿越帝国，第一卷，第十三章
+title: 穿越帝国，第一卷，第十三章，生死追随
 categories: [中文小说, 穿越帝国]
 description: 穿越帝国，第一卷，第十三章
 keywords: 中文, 小说, 穿越帝国
@@ -112,4 +112,4 @@ keywords: 中文, 小说, 穿越帝国
 
 唐奥德闻之，眉开眼笑：“我也要同去。殿下请和我一同配药。”
 
-##### [上一章](/../../2020/03/11/TimeTravellerEmpire-1-12/) | [下一章](/../../2020/03/14/TimeTravellerEmpire-1-14/)
+##### [上一章](/2020/03/11/TimeTravellerEmpire-1-12/) | [下一章](/2020/03/14/TimeTravellerEmpire-1-14/)

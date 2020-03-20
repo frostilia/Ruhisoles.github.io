@@ -11,32 +11,44 @@ body {
 	font-size: 14pt;
 
 }
+one-twice {
+	width:30;
+	border: 2px black solid
+}
 </style>
 </head>
 <body>
 
-<p><a href="test.html" target="iframe_text">Show the test page</a></p>
- {% include test2.html %}
-<p><a href="/" target="iframe_text">Show D:</a></p>
-<p><a href="https://www.dropbox.com" target="iframe_text">Show Dropbox</a></p>
-<button onclick="fn1()">An interesting button</button>
+<div class="columns">
+<div class="column one-third">
+<p id="labelfn">First name:</p>
+<form>
+  
+  <button onclick="runFn()">Run</button>
+  <br>
+  <input type="text" id="fname" name="fname" style="width:90%;height:200px;margin:5%;"><br>
+  
+  <input type="text" id="lname" name="lname">
+</form>
+<p id="labelln">Last name:</p><br>
+</div>
 
-<p> New Thing </p>
+<div class="column one-twice">
+
+<iframe id="runWindow" style="width:90%;margin:5%;height:200px;float:right"></iframe>
 
 
+</div>
 
+</div>
 
 
 </body>
 <script>
-function fn1() {
-	document.write("agggga")
-	document.write(
-	`<br>
-	<button onclick='fn1()'>An interesting button</button>
-	<br>
-	<iframe src='https://ruhisoles.github.io'></iframe>`
-	)
+function runFn() {
+	var cstring = document.getElementById("labelfn").innerHTML
+	document.getElementById("labelln").innerHTML = "Hello world!"
+	document.getElementById("runWindow").write(cstring)
 }
 </script>
 </html>

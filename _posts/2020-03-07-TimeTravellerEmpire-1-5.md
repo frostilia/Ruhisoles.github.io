@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 穿越帝国，第一卷，第五章
+title: 穿越帝国，第一卷，第五章，林中逃亡
 categories: [中文小说, 穿越帝国]
 description: 穿越帝国，第一卷，第五章
 keywords: 中文, 小说, 穿越帝国
@@ -108,4 +108,4 @@ keywords: 中文, 小说, 穿越帝国
 
 本来就行进速度不快，再加上遮奈主张下多出布设疑局。反反复复，曲曲折折，走到了第二年初才走到姆辛山谷。
 
-##### [上一章](/../../2020/03/06/TimeTravellerEmpire-1-4/) | [下一章](/../../2020/03/08/TimeTravellerEmpire-1-6/)
+##### [上一章](/2020/03/06/TimeTravellerEmpire-1-4/) | [下一章](/2020/03/08/TimeTravellerEmpire-1-6/)

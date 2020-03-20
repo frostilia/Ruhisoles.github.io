@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 穿越帝国，第一卷，第七章
+title: 穿越帝国，第一卷，第七章，凫徯之祸
 categories: [中文小说, 穿越帝国]
 description: 穿越帝国，第一卷，第七章
 keywords: 中文, 小说, 穿越帝国
@@ -130,4 +130,4 @@ keywords: 中文, 小说, 穿越帝国
 
 “这傻瓜真重！”杨慈炫想到。
 
-##### [上一章](/../../2020/03/08/TimeTravellerEmpire-1-6/) | [下一章](/../../2020/03/09/TimeTravellerEmpire-1-8/)
+##### [上一章](/2020/03/08/TimeTravellerEmpire-1-6/) | [下一章](/2020/03/09/TimeTravellerEmpire-1-8/)

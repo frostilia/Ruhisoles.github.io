@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 穿越帝国，第一卷，第三章
+title: 穿越帝国，第一卷，第三章，西去朝圣
 categories: [中文小说, 穿越帝国]
 description: 穿越帝国，第一卷，第三章
 keywords: 中文, 小说, 穿越帝国
@@ -94,5 +94,5 @@ keywords: 中文, 小说, 穿越帝国
 
 杨慈炫听闻，心中也充满苦痛。只觉在历史的波涛中，自己如同一叶扁舟，随波飘零。忽觉困意袭来，逐渐睡着了。
 
-##### [上一章](/../../2020/03/04/TimeTravellerEmpire-1-2/) | [下一章](/../../2020/03/06/TimeTravellerEmpire-1-4/) 
+##### [上一章](/2020/03/04/TimeTravellerEmpire-1-2/) | [下一章](/2020/03/06/TimeTravellerEmpire-1-4/) 
 

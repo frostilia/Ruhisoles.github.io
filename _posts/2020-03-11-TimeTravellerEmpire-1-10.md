@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 穿越帝国，第一卷，第十章
+title: 穿越帝国，第一卷，第十章，巨人之力
 categories: [中文小说, 穿越帝国]
 description: 穿越帝国，第一卷，第十章
 keywords: 中文, 小说, 穿越帝国

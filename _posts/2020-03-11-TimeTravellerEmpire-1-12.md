@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 穿越帝国，第一卷，第十二章
+title: 穿越帝国，第一卷，第十二章，永昭遗诏
 categories: [中文小说, 穿越帝国]
 description: 穿越帝国，第一卷，第十二章
 keywords: 中文, 小说, 穿越帝国
@@ -96,4 +96,4 @@ keywords: 中文, 小说, 穿越帝国
 
 1: 修改自永历帝写给吴三桂的绝笔信。
 
-##### [上一章](/../../2020/03/11/TimeTravellerEmpire-1-11/) | [下一章](/../../2020/03/12/TimeTravellerEmpire-1-13/)
+##### [上一章](/2020/03/11/TimeTravellerEmpire-1-11/) | [下一章](/2020/03/12/TimeTravellerEmpire-1-13/)

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 穿越帝国，第一卷，第十四章
+title: 穿越帝国，第一卷，第十四章，半路截杀
 categories: [中文小说, 穿越帝国]
 description: 穿越帝国，第一卷，第十四章
 keywords: 中文, 小说, 穿越帝国
@@ -102,4 +102,4 @@ keywords: 中文, 小说, 穿越帝国
 
 唐奥德面露安详，无动于衷。众人身后的博族巫师和武士都暂时没有动。赵氏兄弟则拿着佩刀，紧张地挡在杨慈炫和后面两个巫师武士之间。
 
-##### [上一章](/../../2020/03/12/TimeTravellerEmpire-1-13/) | [下一章](/../../2020/03/15/TimeTravellerEmpire-1-15/)
+##### [上一章](/2020/03/12/TimeTravellerEmpire-1-13/) | [下一章](/2020/03/15/TimeTravellerEmpire-1-15/)
