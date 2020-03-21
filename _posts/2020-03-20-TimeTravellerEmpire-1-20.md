@@ -5,7 +5,6 @@ categories: [中文小说, 穿越帝国]
 description: 穿越帝国，第一卷，第二十章
 keywords: 中文, 小说, 穿越帝国
 ---
-##### [上一章](/2020/03/19/TimeTravellerEmpire-1-19/) | [下一章](/2020/03/21/TimeTravellerEmpire-1-21/)
 
 杨慈炫打开门，发现苏维涅正在门外走廊里，离他们居住的房间还有十几米。
 
