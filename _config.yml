@@ -2,25 +2,25 @@
 #   Main Configs   #
 # ---------------- #
 baseurl:
-url: https://ruhisoles.github.io
+url: https://frostilia.github.io
 date_format: "ordinal"
-title: "White Rice's Blog"
+title: "Frostilia's Blog"
 subtitle: "A simple blog"
-description: "White Rice's personal blog"
-keywords: whiterice, blog
-timezone: Europe/Berlin
+description: "Frostilia's personal blog"
+keywords: frostilia, blog
+timezone: Asia/Taipei
 encoding: "utf-8"
 side_bar_repo_limit: 5
 
 # ---------------- #
 #      Author      #
 # ---------------- #
-author: WhiteRice Porridge
+author: Frostilia
 organization: 
 organization_url: 
-github_username: Ruhisoles
-location: Germany
-email: ruhisoles@gmail.com
+github_username: Frostilia
+location: Taiwan
+email: anja.ancerade@gmail.com
 
 # ---------------- #
 #    Navigation    #
@@ -28,11 +28,11 @@ email: ruhisoles@gmail.com
 navs:
   -
     href: /
-    label: 首页/HomePage
+    label: 首頁/HomePage
 
   -
     href: /categories/
-    label: 分类/Categories
+    label: 分類/Categories
 
 #   -
 #     href: /archives/
@@ -42,9 +42,9 @@ navs:
     # href: /wiki/
     # label: 维基
 
-  # -
-    # href: /links/
-    # label: 链接
+  -
+    href: /links/
+    label: 聯接/Links
 
   # -
     # href: /about/
@@ -81,7 +81,7 @@ collections:
         output: true
         permalink: /wiki/:path/
 
-repository: Ruhisoles/Ruhisoles.github.io
+repository: frostilia/frostilia.github.io
 
 # ---------------- #
      # Comments    #
@@ -121,5 +121,5 @@ simple_jekyll_search:
 # ---------------- #
 #    Analytics     #
 # ---------------- #
-google:
-    analytics_id: UA-159646626-1
+# google:
+#     analytics_id: UA-159646626-1
