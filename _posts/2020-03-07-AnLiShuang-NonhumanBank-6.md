@@ -1,9 +1,9 @@
 ---
 layout: post
 title: 非人類商業銀行儲蓄部，06
-categories: [中文小说, 非人類商業銀行儲蓄部, 闇黎霜]
-description: 非人類商業銀行儲蓄部，作者闇黎霜，06
-keywords: 中文, 小说, 闇黎霜
+categories: [中文小说, 非人類商業銀行儲蓄部]
+description: 非人類商業銀行儲蓄部，06
+keywords: 中文, 小说
 ---
 
 週五午後。
