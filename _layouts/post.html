@@ -13,6 +13,9 @@ layout: default
             <span class="octicon octicon-calendar"></span> {{ page.date | date: "%Y/%m/%d" }}
           </span>
           {% endif %}
+		  <span class="meta-info">
+		  {{ content | strip_html | strip_newlines | size }} <span>字/Words</span>
+		  </span>		  
           {% for cat in page.categories %}
           <span class="meta-info">
             <span class="octicon octicon-file-directory"></span>
