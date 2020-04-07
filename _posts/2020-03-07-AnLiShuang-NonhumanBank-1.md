@@ -1,9 +1,9 @@
 ---
 layout: post
 title: 非人類商業銀行儲蓄部，01
-categories: [中文小说, 非人類商業銀行儲蓄部]
+categories: [中文小說, 非人類商業銀行儲蓄部]
 description: 非人類商業銀行儲蓄部，01
-keywords: 中文, 小说
+keywords: 中文, 小說
 ---
 
 > 註明：作者坑品不佳，是個女的不怕變太監，入坑請慎重。

@@ -1,9 +1,9 @@
 ---
 layout: post
 title: 非人類商業銀行儲蓄部，07
-categories: [中文小说, 非人類商業銀行儲蓄部]
+categories: [中文小說, 非人類商業銀行儲蓄部]
 description: 非人類商業銀行儲蓄部，07
-keywords: 中文, 小说
+keywords: 中文, 小說
 ---
 
 與此同時。陽間。
