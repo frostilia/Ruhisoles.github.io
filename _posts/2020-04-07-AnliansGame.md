@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 安聯的遊戲
-categories: [中文小说, 安聯的遊戲]
+categories: [中文小说, 安聯的遊戲, 多肉]
 description: 安聯的遊戲
 keywords: 中文, 小说
 ---
